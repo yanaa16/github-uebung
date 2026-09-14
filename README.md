@@ -1,6 +1,4 @@
 # github-uebung
 
-test
 
-branch
 
